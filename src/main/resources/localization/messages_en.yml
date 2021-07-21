@@ -1,0 +1,14 @@
+Command:
+  Boss:
+    Not_Found: "Boss named {boss_name} does not exist. Available: {boss_available}"
+
+Boarding:
+  Cancelled: "Your survey application has been cancelled."
+
+Commands:
+  Reload_Success: "&2{plugin_name} {plugin_version} has been reloaded successfully."
+
+# This message is overriden from SimpleLocalization
+No_Permission: "&6Insufficient permission ({permission})."
+
+Version: 1

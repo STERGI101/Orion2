@@ -1,0 +1,18 @@
+#
+# This is the file your server opens to find the main class
+# of your plugin and its information. We automatically replace
+# many variables here from your pom.xml file.
+#
+# See https://www.spigotmc.org/wiki/plugin-yml/ for more
+# information .
+#
+# NB: Please do not register commands here, these are done
+# directly in our plugin using Foundation :)
+#
+name: Orion2
+version: ${project.version}
+main: ${main.class}
+api-version: 1.13
+permissions:
+  orion2.fire:
+    default: false

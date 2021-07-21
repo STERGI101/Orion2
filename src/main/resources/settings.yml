@@ -1,0 +1,33 @@
+#
+# Welcome to the main settings file.
+#
+# For help, visit <youradress>.com
+#
+
+Menu:
+  Preferences_Title: "&4User preferences"
+  Egg_Selection_Title: "Select a mob egg"
+
+Join:
+  Give_Emerald: false
+
+Entity_Hit:
+  Explode_Cows: true
+  Power: 2D
+
+Ignored_Log_Commands:
+  - /login
+  - /register
+  - /changepassword
+
+Log_Players_Locale: true
+Broadcaster_Delay: 5 seconds
+
+Command_Aliases: [orion, or]
+Bungee_Server_Name: "survival"
+Server_Name: "Orion Server"
+Locale: "en"
+Prefix: "&fOrion &7// "
+Log_Lag_Over_Milis: 100
+Debug: []
+Version: 1
